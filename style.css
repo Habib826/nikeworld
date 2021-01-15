@@ -1,0 +1,53 @@
+body{
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+ul li a{
+  font-weight: bold;
+  font-size: 20px;
+}
+h1.name{
+  font-size: 44px;
+  font-weight: 900;
+}
+h2, .nameHilight{
+  color: rgb(241, 118, 104);
+}
+h1, .nameHilight2{
+  color: rgb(1, 1, 46);
+}
+.card.casualShoes.h-100 {
+  border: none;
+}
+button.btn.btn-primary {
+  border-radius: 10px;
+}
+
+h3.card-title {
+  color: rgb(15, 15, 78) ;
+}
+.fa-shopping-cart{
+  color: white;
+  font-size: 20px;
+
+}
+.card.formalShoes.h-90 {
+  border: none;
+  border-radius: 10px;
+  background: white;
+ 
+}
+.row.row-cols-1.row-cols-md-3.g-4.mt-3 {
+  background-color: white;
+}
+.row.row-cols-1.row-cols-md-3.g-4 {
+  background-color: whitesmoke;
+}
+
+
+ #perfectFit, #freeExchange, #contact{
+  height: 90px;
+  font-weight: 90px;
+ }
